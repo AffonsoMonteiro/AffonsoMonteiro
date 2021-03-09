@@ -14,11 +14,11 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <a
     href="https://api.whatsapp.com/send?phone=11965727261&text=Hello%20i%20came%20from%20your%20site" 
     alt="WhatsApp"
-    target="_blank"
+    target="blank_"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
