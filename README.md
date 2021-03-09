@@ -1,4 +1,4 @@
-<h1> Hi, my name is Afonso Monteiro <h1/>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hi, my name is Afonso Monteiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h1/>  
 
 <h3>Welcome to my github page!</h3>
 <hr />
