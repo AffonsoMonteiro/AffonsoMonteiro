@@ -18,7 +18,7 @@
   <a
     href="https://api.whatsapp.com/send?phone=11965727261&text=Hello%20i%20came%20from%20your%20site" 
     alt="WhatsApp"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a
-    href="https:https://www.linkedin.com/in/afonso-monteiro-818603191/" 
+    href="https://www.linkedin.com/in/afonso-monteiro-818603191/" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
