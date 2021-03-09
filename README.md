@@ -10,12 +10,12 @@
 </p>
 
 <p align="left">
-  💎 Skill: <strong>HTML5, CSS3, JavaScript, React(Styled-components, Redux, Context-Api).</strong>
+  💎 Skills: <strong>HTML5, CSS3, JavaScript, React(Styled-components, Redux, Context-Api).</strong>
 </p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-monteiro-818603191/)](https://www.linkedin.com/in/afonso-monteiro-818603191/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:a0a0coelho0@gmailcom)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:afonsomonteiro_@hotmail.com)
 
 
 
